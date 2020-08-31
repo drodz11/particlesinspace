@@ -1,0 +1,95 @@
+---
+layout: none
+---
+[
+  {
+    "pid": "obj004",
+    "artist": "Mary Ellen Bute",
+    "label": "Dada, frames 1986-2071",
+    "_date": "1936",
+    "collection": "particlesinspace",
+    "thumbnail": "/img/derivatives/iiif/images/obj004/full/250,/0/default.jpg",
+    "permalink": "/particlesinspace/obj004",
+    "lunr_id": 0
+  },
+  {
+    "pid": "obj005",
+    "artist": "Mary Ellen Bute",
+    "label": "From Dada",
+    "_date": "1936",
+    "collection": "particlesinspace",
+    "thumbnail": "/img/derivatives/iiif/images/obj005/full/250,/0/default.jpg",
+    "permalink": "/particlesinspace/obj005",
+    "lunr_id": 1
+  },
+  {
+    "pid": "obj001",
+    "artist": "Len Lye",
+    "label": "Particles in Space title sequence",
+    "_date": "1979",
+    "collection": "particlesinspace",
+    "thumbnail": "/img/derivatives/iiif/images/obj001/full/250,/0/default.jpg",
+    "permalink": "/particlesinspace/obj001",
+    "lunr_id": 2
+  },
+  {
+    "pid": "obj008",
+    "artist": "Kelly Egan",
+    "label": "From finger petals, cross section",
+    "_date": "2002",
+    "collection": "particlesinspace",
+    "thumbnail": "/img/derivatives/iiif/images/obj008/full/250,/0/default.jpg",
+    "permalink": "/particlesinspace/obj008",
+    "lunr_id": 3
+  },
+  {
+    "pid": "obj009",
+    "artist": "Stan Brakhage",
+    "label": "From Rage Net, cross section",
+    "_date": "1988",
+    "collection": "particlesinspace",
+    "thumbnail": "/img/derivatives/iiif/images/obj009/full/250,/0/default.jpg",
+    "permalink": "/particlesinspace/obj009",
+    "lunr_id": 4
+  },
+  {
+    "pid": "obj006",
+    "artist": "Hollis Frampton",
+    "label": "From Lemon",
+    "_date": "1969",
+    "collection": "particlesinspace",
+    "thumbnail": "/img/derivatives/iiif/images/obj006/full/250,/0/default.jpg",
+    "permalink": "/particlesinspace/obj006",
+    "lunr_id": 5
+  },
+  {
+    "pid": "obj002",
+    "artist": "Len Lye",
+    "label": "Particles in Space, frames 3000-3200",
+    "_date": "1979",
+    "collection": "particlesinspace",
+    "thumbnail": "/img/derivatives/iiif/images/obj002/full/250,/0/default.jpg",
+    "permalink": "/particlesinspace/obj002",
+    "lunr_id": 6
+  },
+  {
+    "pid": "obj003",
+    "artist": "Stan Brakhage",
+    "label": "Black Ice, frames 294-1,294",
+    "_date": "1994",
+    "collection": "particlesinspace",
+    "thumbnail": "/img/derivatives/iiif/images/obj003/full/250,/0/default.jpg",
+    "permalink": "/particlesinspace/obj003",
+    "lunr_id": 7
+  },
+  {
+    "pid": "obj007",
+    "artist": "Kelly Egan",
+    "label": "From cockroach, cross section",
+    "_date": "2002",
+    "collection": "particlesinspace",
+    "thumbnail": "/img/derivatives/iiif/images/obj007/full/250,/0/default.jpg",
+    "permalink": "/particlesinspace/obj007",
+    "lunr_id": 8
+  }
+]
