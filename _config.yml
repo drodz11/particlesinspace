@@ -19,7 +19,7 @@
 # ~> https://jekyllrb.com/docs/configuration/options/
 
 title:            'Particles in Space'
-description:
+description:      'A digital humanities project exploring the histories and practices of experimental film & video'
 url:              'https://drodz11.github.io'
 baseurl:          '/particlesinspace'
 copyright:        'CC BY-NC 4.0'
