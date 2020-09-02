@@ -8,6 +8,7 @@ permalink: '/credits/'
 This site was created and is maintained by [Dave Rodriguez](https://claviluxarchival.com/) -- audiovisual archivist, filmmaker, and current Resident Media Librarian at Florida State University. Send inquiries to david.william.rodriguez[at]gmail[dot]com
 
 IG: @clavilux_
+
 Twitter: @clavilux_of_FL
 
 ### About this site
