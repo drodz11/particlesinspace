@@ -5,7 +5,7 @@ permalink: '/credits/'
 ---
 
 ### About the author
-This site was created and is maintained by [Dave Rodriguez](https://claviluxarchival.com/) -- audiovisual archivist, filmmaker, and current Resident Media Librarian in the [Office of Digital Research and Scholarship](https://www.lib.fsu.edu/drs) at Florida State University. Send inquiries to david.william.rodriguez[at]gmail[dot]com
+This site was created and is maintained by [Dave Rodriguez](https://claviluxarchival.com/) -- audiovisual archivist, filmmaker, and current Digital Services Librarian at Florida State University. Send inquiries to david.william.rodriguez[at]gmail[dot]com
 
 IG: @clavilux_
 
